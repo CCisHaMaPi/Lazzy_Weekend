@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">懒人周末~</string>
+    <string name="weibo_login">微博登录</string>
+    <string name="wechat_login">微信登录</string>
+    <string name="no_login">暂不登录,随便逛逛</string>
+    <string name="user_info_set">设置个人资料</string>
+    <string name="user_without_name">匿名用户</string>
+    <string name="sex">性别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="user_info_now">当前状态</string>
+    <string name="be_parent">为人父母</string>
+    <string name="be_love">恋爱中/已婚</string>
+    <string name="be_single">单身生活</string>
+    <string name="choose_your_interesting">选择您的兴趣标签</string>
+    <string name="interest_nearby">周边游</string>
+    <string name="interest_bar">酒吧</string>
+    <string name="interest_music">音乐</string>
+    <string name="interest_drama">戏剧</string>
+    <string name="interest_exhibition">展览</string>
+    <string name="interest_food">美食</string>
+    <string name="interest_shopping">购物</string>
+    <string name="interest_film">电影</string>
+    <string name="interest_party">聚会</string>
+    <string name="interest_sport">运动</string>
+    <string name="interest_kind">公益</string>
+    <string name="interest_business">商业</string>
+</resources>
